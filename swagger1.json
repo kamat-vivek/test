@@ -1,5 +1,5 @@
 {
-  "openapi": "3.0.3",
+  "openapi": "3.0.0",
   "info": {
     "description": "The API provides the user with the capability to get restrictions for a cross border transaction.",
     "version": "1.0.0",
